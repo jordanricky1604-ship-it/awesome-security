@@ -271,8 +271,6 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ## Threat Intelligence
 
-- [Malware Families Catalog](https://jordanricky1604-ship-it.github.io/malware-families-catalog/) - An expert-curated encyclopedia of 2,899 malware families. Features dynamic MITRE ATT&CK mappings, interactive incident response checklists, actionable IOCs, and is authored by Senior Incident Responders. Datasets available in Parquet/JSONL with a free JSON API. Also on [Kaggle](https://www.kaggle.com/datasets/rickyjordan/malware-families-catalog) and [Hugging Face](https://huggingface.co/datasets/Jordan123234/malware-families-catalog).
-
 - [abuse.ch](https://www.abuse.ch/) - ZeuS Tracker / SpyEye Tracker / Palevo Tracker / Feodo Tracker tracks Command&Control servers (hosts) around the world and provides you a domain- and an IP-blocklist.
 - [Cyware Threat Intelligence Feeds](https://cyware.com/community/ctix-feeds) - Cyware’s Threat Intelligence feeds brings to you the valuable threat data from a wide range of open and trusted sources to deliver a consolidated stream of valuable and actionable threat intelligence. Our threat intel feeds are fully compatible with STIX 1.x and 2.0, giving you the latest information on malicious malware hashes, IPs and domains uncovered across the globe in real-time.
 - [Emerging Threats - Open Source](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ) - Emerging Threats began 10 years ago as an open source community for collecting Suricata and SNORT® rules, firewall rules, and other IDS rulesets. The open source community still plays an active role in Internet security, with more than 200,000 active users downloading the ruleset daily. The ETOpen Ruleset is open to any user or organization, as long as you follow some basic guidelines. Our ETOpen Ruleset is available for download any time.
@@ -294,6 +292,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 - [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 - [Cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+- [Malware Families Catalog](https://malware-families-catalog.systemhelpdesk.com/) - Curated encyclopedia and dataset of 2,903 malware families mapped to MITRE ATT&CK with detection queries and defense playbooks. Available in Parquet and JSONL formats with an open JSON API.
 
 ## Social Engineering
 
